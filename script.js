@@ -495,3 +495,4 @@ document.addEventListener('touchend', function (event) {
     }
     lastTouchEnd = now;
 }, false);
+
